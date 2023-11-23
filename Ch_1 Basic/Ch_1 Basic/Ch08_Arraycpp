@@ -1,0 +1,9 @@
+#include "io.h"
+
+void PrintArray()\
+{
+	int ArrayNumbrt[3] = { 1,2,3 };
+
+	cout << ArrayNumbrt << endl;
+
+}
